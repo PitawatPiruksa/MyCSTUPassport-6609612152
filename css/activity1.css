@@ -1,0 +1,12 @@
+body{
+    background-color: #F4F1EC;
+}
+.F{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}

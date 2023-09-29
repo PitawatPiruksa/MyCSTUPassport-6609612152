@@ -1,0 +1,19 @@
+body{
+    background-color:#F4F1EC;                      
+}
+
+.center{
+    text-align: center;
+}
+.F{
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.a{
+    border: 1px;;
+    background-color: white
+}
