@@ -1,0 +1,20 @@
+body{
+    background-color:#F4F1EC;                      
+}    
+.F{
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.khob{
+    border:solid 2px black;
+    background-color: white
+}

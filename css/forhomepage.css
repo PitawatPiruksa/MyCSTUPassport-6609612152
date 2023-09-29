@@ -1,5 +1,5 @@
 body{
-    background-color:aliceblue;                      
+    background-color:#F4F1EC;                      
 }    
 .F{
     display: flex;
@@ -8,11 +8,13 @@ body{
     flex: 20%;
     border: solid 2px black;
     padding: 15px;
+    background-color: white;
 }
 .right{
     flex: 80%;
     border: solid 2px  black;
     font-size: large;
+    background-color: white;
 }
 .name{
     text-align: center;
